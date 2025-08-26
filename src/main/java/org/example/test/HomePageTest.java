@@ -1,5 +1,6 @@
-package org.example;
+package org.example.test;
 
+import org.example.HomePage;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
